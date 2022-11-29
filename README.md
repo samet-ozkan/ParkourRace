@@ -53,6 +53,11 @@
 
 ## Screenshoots
 
+<p><img src="https://github.com/samet-ozkan/ParkourRace/blob/main/Screenshots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202022-11-29%20234721.png" width="40%" height="20%"></p>
+<p><img src="https://github.com/samet-ozkan/ParkourRace/blob/main/Screenshots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202022-11-29%20234840.png" width="40%" height="20%"></p>
+<p><img src="https://github.com/samet-ozkan/ParkourRace/blob/main/Screenshots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202022-11-29%20235023.png" width="40%" height="20%"></p>
+
+
 ## Görevler
 
 ### Samet Özkan
